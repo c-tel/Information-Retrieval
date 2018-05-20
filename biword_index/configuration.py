@@ -1,0 +1,10 @@
+test_files = ['D:/test files/Madame_Bovary-Gustave_Flaubert.txt',
+              'D:/test files/Airport-Arthur_Hailey.txt',
+              'D:/test files/Sense_And_Sensibility-Jane_Austen.txt',
+              'D:/test files/The_Best_of_times-Alan_Maley.txt',
+              'D:/test files/The_Monkey_King-Wu_Cheng.txt',
+              'D:/test files/Bleak_House-Charles_Dickens.txt',
+              'D:/test files/Captain_Corellis_Mandolin-Louis_De_Bernieres.txt',
+              'D:/test files/Brave_New_World-Aldous_Huxley.txt',
+              'D:/test files/Pride_And_Prejudice-Jane_Austen.txt',
+              'D:/test files/The_Three_Musketeers-Alexandre_Dumas.txt']
